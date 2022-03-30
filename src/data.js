@@ -3,4 +3,4 @@ const user = {
   interests: ["Coding", "Biking", "Words ending in 'ing'"],
 };
 
-export default user;
+export {user};
